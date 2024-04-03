@@ -1,0 +1,14 @@
+<svg id="Component_2_1" data-name="Component 2 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="202.542" height="202.542" viewBox="0 0 202.542 202.542">
+  <defs>
+    <linearGradient id="linear-gradient" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#eb5757"/>
+      <stop offset="1" stop-color="#fdb2b2"/>
+    </linearGradient>
+  </defs>
+  <rect id="Image" width="156.213" height="156.213" rx="8" transform="translate(57.164) rotate(21.465)" fill="none"/>
+  <rect id="Rectangle_12" data-name="Rectangle 12" width="97.633" height="78.107" rx="4" transform="translate(71.918 42.52) rotate(21.465)" fill="url(#linear-gradient)"/>
+  <g id="Union" transform="translate(-4 -337)">
+    <path id="Vector_2" data-name="Vector 2" d="M0,39.053,26.849,0,53.7,39.053Z" transform="translate(67.14 428.523) rotate(21.465)" fill="rgba(253,178,178,0.4)"/>
+    <path id="Vector_3" data-name="Vector 3" d="M0,48.817,34.172,0,68.343,48.817Z" transform="translate(88.885 426.582) rotate(21.465)" fill="rgba(253,178,178,0.4)"/>
+  </g>
+</svg>
